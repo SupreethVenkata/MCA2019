@@ -1,7 +1,8 @@
 x=[1,2,3,4,5]
 a=0
 for i in x:
-    a=a+i
+    if i%2==1:
+        a=a+i
 print(a)
 print("raju")
 x="python"
