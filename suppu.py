@@ -6,3 +6,4 @@ print(a)
 print("raju")
 x="python"
 print(x)
+print("banglore")
