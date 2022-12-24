@@ -3,3 +3,4 @@ a=0
 for i in x:
     a=a+i
 print(a)
+print("raju")
