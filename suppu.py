@@ -7,4 +7,4 @@ print(a)
 print("raju")
 x="python"
 print(x)
-print("banglore")
+print("banglore")pring(raju)
